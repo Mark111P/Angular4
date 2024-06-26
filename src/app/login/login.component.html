@@ -1,0 +1,6 @@
+<input [(ngModel)]="login" placeholder="login" (input)="reset()"><br>
+<input [(ngModel)]="password" placeholder="password" type="password" (input)="reset()"><br>
+<button (click)="addUser()">Add user</button><br>
+<button (click)="getLogins()">Get logins</button>
+<br><br>
+<div>{{text}}</div>

@@ -1,0 +1,22 @@
+input{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid rgb(12, 0, 66);
+    outline: none;
+    color: rgb(12, 0, 66);
+}
+button{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid rgb(12, 0, 66);
+    color: rgb(12, 0, 66);
+    background-color: rgb(216, 237, 255);
+    cursor: pointer;
+}
+div{
+    margin: 5px;
+    padding: 5px;
+    color: rgb(12, 0, 66);
+}

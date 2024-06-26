@@ -1,0 +1,9 @@
+<input placeholder="Name" [(ngModel)]="name">
+<button (click)="getMovie()">Get movie</button>
+
+<br><img src="{{movie?.Poster}}"><br>
+<div>Name: {{movie?.Title}}</div>
+<div>Date: {{movie?.Released}}</div>
+<div>Genre: {{movie?.Genre}}</div>
+<div>Actors: {{movie?.Actors}}</div>
+<div>Writer: {{movie?.Writer}}</div>

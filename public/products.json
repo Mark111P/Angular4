@@ -1,0 +1,13 @@
+{
+    "products":
+    [{
+        "name": "aaa1",
+        "count": 5
+    },{
+        "name": "bbb2",
+        "count": 10
+    },{
+        "name": "ccc3",
+        "count": 15
+    }]
+}

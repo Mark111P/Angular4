@@ -1,0 +1,10 @@
+a{
+    margin: 5px;
+    text-decoration: none;
+    color: rgb(28, 0, 153);
+    font-size: large;
+    transition-duration: 0.5s;
+}
+a:hover{
+    color: red;
+}
